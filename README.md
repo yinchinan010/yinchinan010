@@ -23,7 +23,7 @@
 
 - ⚡ My hobbies **listening new english music and watching hollywood movies **
 
-- ⚡ My Daily Acitvies ** Always suff tech gadgets stuff on internet and stay up to date with new technologies **
+- 📓 My Daily Acitvies ** Always suff tech gadgets stuff on internet and stay up to date with new technologies **
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
