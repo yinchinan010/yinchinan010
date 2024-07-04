@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Asp.Net Core with Clean Architecture](https://github.com/yinchinan010/AspNetCore-CleanArchitecture)
 
-- 🌱 I’m currently learning **Asp.Net Core with Clean Architecture**
+- 🌱 I’m currently learning **Frontend framework vue, and Asp.Net Core Clean Architecture**
 
 - 👯 I’m looking to build project on [Inventory fullstack app](https://github.com/yinchinan010/InventoryManagementSystem)
 
@@ -15,7 +15,7 @@
 
 - 👨‍💻 All of my projects are available at [https://yinchinan010.netlify.app/](https://yinchinan010.netlify.app/)
 
-- 💬 Ask me about **Vue,NuxtJs,Vite frontend framework ecosystem,  Python Data Analysis and Automation, Client/Serve Base Web App Dev using.NET Stack Technologies**
+- 💬 Ask me about **Vue,NuxtJs,Vite frontend framework ecosystem,  Python Data Analysis and Automation, Client/Server Base Web App Dev using.NET Stack Technologies**
 
 - 📫 How to reach me **yinchinan168@gmail.com**
 
