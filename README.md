@@ -9,9 +9,9 @@
 
 - 🌱 I’m currently learning **Asp.Net Core with Clean Architecture**
 
-- 👯 I’m looking to collaborate on [shoes-fullstack app](https://github.com/yinchinan010/shoe_frontend)
+- 👯 I’m looking to build project on [Inventory fullstack app](https://github.com/yinchinan010/InventoryManagementSystem)
 
-- 🤝 I’m looking for help with [house-backend](https://github.com/yinchinan010/house-renting-frontend)
+- 🤝 I’m looking to learn and build new project for [Small Online App](https://github.com/yinchinan010/TamChetApp)
 
 - 👨‍💻 All of my projects are available at [https://yinchinan010.netlify.app/](https://yinchinan010.netlify.app/)
 
