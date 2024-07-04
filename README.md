@@ -15,13 +15,15 @@
 
 - 👨‍💻 All of my projects are available at [https://yinchinan010.netlify.app/](https://yinchinan010.netlify.app/)
 
-- 💬 Ask me about **Vue, C# , Python , .NET**
+- 💬 Ask me about **Vue,NuxtJs,Vite frontend framework ecosystem,  Python Data Analysis and Automation, Client/Serve Base Web App Dev using.NET Stack Technologies**
 
 - 📫 How to reach me **yinchinan168@gmail.com**
 
 - 📄 Know about my experiences [https://docs.google.com/document/d/1CNFxPuq3e1BXvocw9k76vgHWF2XI5alSkZQWBHnqpeA](https://docs.google.com/document/d/1CNFxPuq3e1BXvocw9k76vgHWF2XI5alSkZQWBHnqpeA)
 
-- ⚡ Fun fact **My music folder is filled with Earl Nightingale and Napoleon Hill's audiobooks.**
+- ⚡ My hobbies **listening new english music and watching hollywood movies **
+
+- ⚡ My Daily Acitvies ** Always suff tech gadgets stuff on internet and stay up to date with new technologies **
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
