@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **yinchinan168@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1CNFxPuq3e1BXvocw9k76vgHWF2XI5alSkZQWBHnqpeA](https://docs.google.com/document/d/1CNFxPuq3e1BXvocw9k76vgHWF2XI5alSkZQWBHnqpeA)
+- 📄 Know about my experiences
 
 - ⚡ My hobbies **listening new english music and watching hollywood movies **
 
@@ -27,7 +27,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/Chinan Yin/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="soe-sandar-win-softwareengineer/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/Chinan Yin/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Chinan Yin-softwareengineer/" height="30" width="40" /></a>
 </p>
 <h3 align="left">Languages and Tools:</h3>
 
